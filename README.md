@@ -19,11 +19,12 @@ Recent minimum wage increases do not appear to have generated broad-based employ
 ## Files
 
 - `data.csv` — Dataset used for the analysis
-- `baseline_and_mean_regression.ipynb` — Baseline regression analysis
-- `theorymodel.ipynb` — Theoretical model
-- `Robustness_Check.ipynb` — Robustness checks
-- `wildcluster.ipynb` — Wild Cluster Bootstrap analysis
-- `Canadian_Minimum_Wage_Employment_Effects.pdf` — Full research paper
+- `baseline-regression.ipynb` — Baseline regression analysis
+- `main-regression.ipynb` — Main regression analysis
+- `theoretical-model.ipynb` — Theoretical model
+- `robustness-checks.ipynb` — Robustness checks
+- `wild-cluster-bootstrap.ipynb` — Wild Cluster Bootstrap analysis
+- `canadian-minimum-wage-employment-effects.pdf` — Full research paper
 
 ## Tools
 
